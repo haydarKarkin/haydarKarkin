@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Haydar Karkin</h2>
 <h4 align="center">I'm an iOS developer who have worked on apps through every stage of their lifecycle. I can work independently and respect a deadline. I feel comfortable working with a good team of developers. My focus is on building great user experiences by writing quality, future-proof code.</h4>
 
-- 🌱 I’m currently learning **SwiftUI & Combine**
+- 🌱 I’m currently learning **Async/Await & Actors**
 
 - 💬 Ask me about **iOS development**
 
