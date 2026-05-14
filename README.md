@@ -1,24 +1,60 @@
-<h2 align="center">Hi 👋, I'm Haydar Karkin</h2>
-<h4 align="center">I'm an iOS developer who have worked on apps through every stage of their lifecycle. I can work independently and respect a deadline. I feel comfortable working with a good team of developers. My focus is on building great user experiences by writing quality, future-proof code.</h4>
+<h2 align="center">Haydar Karkin</h2>
+<h4 align="center">Senior iOS Engineer · 12+ years of shipping apps that people actually use</h4>
 
-- 🌱 I’m currently learning **Async/Await & Actors**
-
-- 💬 Ask me about **iOS development**
-
-- 📫 How to reach me **haydar.karkin@gmail.com**
-
-<details open> 
- <summary>🔗 <b>Connect with me:</b>: </summary>
-<br>
-<p align="left">
-<a href="https://linkedin.com/in/haydar-karkin" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="haydar-karkin" height="30" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/haydar-karkin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://haydarkarkin.com/documentation/releasenotes/">
+    <img src="https://img.shields.io/badge/haydarkarkin.com-000000?style=for-the-badge&logo=safari&logoColor=white" height="28"/>
+  </a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/haydarkarkin" target="blank"><img src="https://img.shields.io/twitter/follow/haydarkarkin?logo=twitter&style=for-the-badge" height="30" alt="haydarkarkin" /></a> </p>
+---
+
+12+ years building iOS apps across fintech, messaging, transit, and enterprise — from early prototypes to products serving millions of users. I care about clean architecture, testability, and code that your future self won't hate you for.
+
+```swift
+let stack: [String: [String]] = [
+    "languages":    ["Swift", "Objective-C"],
+    "ui":           ["UIKit", "SwiftUI"],
+    "architecture": ["MVVM-C", "Clean Architecture", "Protocol-Oriented"],
+    "reactive":     ["Combine", "async/await", "RxSwift"],
+    "testing":      ["XCTest", "Quick/Nimble", "Snapshot Testing"],
+    "ci_cd":        ["Fastlane", "Bitrise", "GitHub Actions"],
+    "databases":    ["Core Data", "Realm"],
+]
+```
+
+---
+
+<details open>
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=haydarKarkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=haydarKarkin&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haydarKarkin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=haydarKarkin&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=haydarKarkin&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haydarKarkin&theme=tokyonight&hide_border=true" />
+</picture>
+
 </details>
 
-<details> 
- <summary>🤖 <b>My programming stats</b>: </summary>
+---
+
+<details>
+<summary><b>🤖 Coding Activity</b></summary>
 <br>
 <!--START_SECTION:waka-->
 **I Mostly Code in Swift** 
@@ -34,16 +70,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 14:56:12 UTC
+ Last Updated on 15/05/2026 02:14:33 UTC
 <!--END_SECTION:waka-->
-</details>
-
-
-<details>
-<summary>😇 <b>My Github Stats</b>: </summary>
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haydarkarkin&show_icons=true&locale=en&theme=dark" alt="haydarkarkin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haydarkarkin&theme=dark" alt="haydarkarkin" /></p>
 </details>
