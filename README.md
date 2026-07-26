@@ -57,6 +57,36 @@ let stack: [String: [String]] = [
 <summary><b>🤖 Coding Activity</b></summary>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2010%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                800 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+🌆 Daytime                2128 commits        █████████░░░░░░░░░░░░░░░░   36.20 % 
+🌃 Evening                1942 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+🌙 Night                  1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1021 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Tuesday                  849 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Wednesday                872 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+Thursday                 886 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Friday                   1087 commits        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Saturday                 443 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Sunday                   721 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Swift** 
 
 ```text
@@ -70,6 +100,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 01:50:55 UTC
+ Last Updated on 26/07/2026 01:54:01 UTC
 <!--END_SECTION:waka-->
 </details>
