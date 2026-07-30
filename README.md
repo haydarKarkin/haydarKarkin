@@ -57,6 +57,8 @@ let stack: [String: [String]] = [
 <summary><b>🤖 Coding Activity</b></summary>
 <br>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2052%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -104,6 +106,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 01:46:27 UTC
+ Last Updated on 30/07/2026 01:29:24 UTC
 <!--END_SECTION:waka-->
 </details>
