@@ -1,5 +1,5 @@
 <h2 align="center">Haydar Karkin</h2>
-<h4 align="center">Senior iOS Engineer · 12+ years of shipping apps that people actually use</h4>
+<h4 align="center">Senior iOS Developer · 12+ years of shipping apps that people actually use</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haydar-karkin/">
@@ -21,8 +21,10 @@ let stack: [String: [String]] = [
     "ui":           ["UIKit", "SwiftUI"],
     "architecture": ["MVVM-C", "Clean Architecture", "Protocol-Oriented"],
     "reactive":     ["Combine", "async/await", "RxSwift"],
+    "networking":   ["REST APIs", "GraphQL", "Firebase Realtime Database"],
     "testing":      ["XCTest", "Quick/Nimble", "Snapshot Testing"],
-    "ci_cd":        ["Fastlane", "Bitrise", "GitHub Actions"],
+    "ci_cd":        ["Fastlane", "Bitrise", "GitHub Actions", "Codemagic"],
+    "tooling":      ["Tuist", "DocC", "SwiftPM"],
     "databases":    ["Core Data", "Realm"],
 ]
 ```
